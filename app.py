@@ -5,7 +5,7 @@ import re
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
-from db_connector import get_db_connection
+
 from collections import Counter
 import re
 
